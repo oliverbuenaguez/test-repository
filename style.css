@@ -1,4 +1,19 @@
 html {
   background-color: black;
   color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: orange;
+}
+
+a:hover {
+  color: yellow;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
